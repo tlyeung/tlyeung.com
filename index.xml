@@ -1,0 +1,122 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>TL Yeung</title>
+	<link>https://tlyeung.github.io/tlyeung.com/</link>
+	<description>Recent content on TL Yeung</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Fri, 16 Feb 2024 00:01:11 +0800</lastBuildDate>
+    
+        <atom:link href="https://tlyeung.github.io/tlyeung.com/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Universal COVID testing never works</title>
+		<link>https://tlyeung.github.io/tlyeung.com/universal-testing/</link>
+		<pubDate>Fri, 16 Feb 2024 00:01:11 +0800</pubDate>
+		
+		<guid>https://tlyeung.github.io/tlyeung.com/universal-testing/</guid>
+		<description>&lt;p&gt;During the COVID pandemic, universal testing had once been a topic in Hong Kong. Even if we can handle millions of testings a day, is it a good approach?&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s assume 99.9% accurate for positive and 99% for negative and 80,000 people are infected.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;positive&lt;/th&gt;
+&lt;th&gt;false positive&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;99.9%&lt;/td&gt;
+&lt;td&gt;0.1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;negative&lt;/th&gt;
+&lt;th&gt;false negative&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;99%&lt;/td&gt;
+&lt;td&gt;1%&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;We will find 7,920,000 x 0.001 + 80,000 x 0.99 = 87,120 people infected. But among them, only 1 - (80,000 x 0.99/87,120) = 9.1% are not infected. They are false positive cases. While 1%, 800 infected people will test negative! Given that the figures I used were almost ideal!&lt;/p&gt;
+&lt;p&gt;As a result, universal testing is pointless. It will find many false positive cases, while hundreds false negative cases will be missed.&lt;/p&gt;
+&lt;p&gt;So what are the right moves? Here are my suggestions.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;We test all patients who thought they have got the virus, even with very mild symptoms. So we can detect the newly infected cases and isolate them as soon as possible.&lt;/li&gt;
+&lt;li&gt;We test the correlations of the confirm cases sooner the better, obviously they are more likely to be infected than any others.&lt;/li&gt;
+&lt;li&gt;We keep testing high risk population. Such as staff in hospitals, nurses, doctors, etc. If they have got the virus, they will infect the most vulnerable people.&lt;/li&gt;
+&lt;li&gt;Start random testings. Let&amp;rsquo;s test 500 people randomly, from all walks of life. It will give us a basic idea how the virus spreads in the community. We can do this on monthly basis.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Cebu Honeymoon Trip 2023</title>
+		<link>https://tlyeung.github.io/tlyeung.com/cebu-2023/</link>
+		<pubDate>Thu, 15 Feb 2024 23:46:57 +0800</pubDate>
+		
+		<guid>https://tlyeung.github.io/tlyeung.com/cebu-2023/</guid>
+		<description>&lt;p&gt;For our honeymoon trip, my wife and I visited Cebu, where we earned our first diving certificate and had an amazing experience exploring the underwater world. We were also impressed by the beautiful sights on land.&lt;/p&gt;
+&lt;h2 id=&#34;transportation&#34;&gt;Transportation&lt;/h2&gt;
+&lt;p&gt;Transportation in Cebu can be difficult, as Cebu City is often congested and lacks traffic lights in the other areas, making it dangerous for drivers and pedestrians. Some tourists choose to rent electric motorcycles, which are affordable and convenient. However, roads can be bumpy and prone to flooding during heavy rain.&lt;/p&gt;
+&lt;p&gt;Tuk-tuks in Bohol are a more affordable option, costing about half the price of a car. It is recommended to check with hotels or apps for transportation options and prices.&lt;/p&gt;
+&lt;h2 id=&#34;food&#34;&gt;Food&lt;/h2&gt;
+&lt;p&gt;Rice is a staple food in the local cuisine. Seafood and fruits both are fresh and flavorful. We have also tried roast chicken and roast pork, they are tasty but a bit too salty. San Miguel beer and soda are cheap and readily available.&lt;/p&gt;
+&lt;h2 id=&#34;attractions&#34;&gt;Attractions&lt;/h2&gt;
+&lt;p&gt;Moalboal is a popular destination for diving due to its many diving spots. However, there are few good hotel options available in the area.&lt;/p&gt;
+&lt;p&gt;In Oslob, the whale shark feeding has become a popular check-in spot, but there isn&amp;rsquo;t much else to see.&lt;/p&gt;
+&lt;p&gt;Snorkeling in Balicasag may not be worth the time, as there are better diving spots available. It is a slightly disappointing island.&lt;/p&gt;
+&lt;p&gt;Panglao in Bohol has many diving spots. Other attractions that can be visited for a day. The hotel tourism area can be crowded with many tourists.&lt;/p&gt;
+&lt;p&gt;While there aren&amp;rsquo;t many must-see landmarks on Bohol, the tarsiers are a unique and worthwhile attraction to visit. However, the information provided at these spots is often limited. For example there are little mention of conservation efforts or the knowledge about the tarsiers in the Sanctuary. I don&amp;rsquo;t even know how do the tarsiers sound like after the visit. Or in Chocolate hills, no information provided there about how the unique local geography was formed.&lt;/p&gt;
+&lt;p&gt;Cebu City do not have many tourist attractions, but there are some large malls for visitors to shop.&lt;/p&gt;
+&lt;p&gt;One noteworthy aspect of Cebu and Bohol is the prevalence of buildings constructed using coral stones. Several prominent landmarks such as Fort San Pedro in Cebu City, Baclayon Church in Bohol, Cuartel and Baluarte Ruins in Oslob, are constructed using these unique materials. These structures not only impress with their grand size, but also feature the intricate details of the coral fossils visible on the surface. It&amp;rsquo;s a fascinating glimpse into the history and culture of the region and a must-see for visitors interested in architecture and history.&lt;/p&gt;
+&lt;p&gt;Overall, many of the popular tourist spots are one-sided check-in spots, meaning they are designed for photo opportunities rather than for a meaningful cultural experience. You have to do your homework before.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Difference between Loving and Liking</title>
+		<link>https://tlyeung.github.io/tlyeung.com/love-and-like/</link>
+		<pubDate>Thu, 15 Feb 2024 23:46:57 +0800</pubDate>
+		
+		<guid>https://tlyeung.github.io/tlyeung.com/love-and-like/</guid>
+		<description>&lt;h2 id=&#34;distinction-between-love-and-like&#34;&gt;Distinction between Love and Like&lt;/h2&gt;
+&lt;p&gt;What is love? This age-old question has puzzled people for generations. Another equally intriguing question is whether there is a difference between love and like. To better understand these emotions, it&amp;rsquo;s essential to consider how they&amp;rsquo;re defined and perceived in different languages.&lt;/p&gt;
+&lt;p&gt;In some languages, such as Italian and Spanish, the concepts of liking and loving someone are distinctly different. Liking someone or something is seen as a passive emotion, whereas loving someone or something is an active choice.&lt;/p&gt;
+&lt;h2 id=&#34;the-passive-nature-of-liking&#34;&gt;The Passive Nature of Liking&lt;/h2&gt;
+&lt;p&gt;When we like someone or something, it&amp;rsquo;s often beyond our control. We cannot choose what we like; we are simply drawn to certain people or things. In this sense, like functions as a standard. When we encounter something similar to what we already like, we are inclined to feel the same level of attraction or appreciation.&lt;/p&gt;
+&lt;p&gt;For example, if you like apples, you will enjoy all apples, and equally like the apples which have very similar look and favour. Similarly, if you are simply attracted to someone based on their appearance or actions, you may feel the same way about another person who possesses similar qualities. That is when you like someone.&lt;/p&gt;
+&lt;h2 id=&#34;the-active-choice-of-love&#34;&gt;The Active Choice of Love&lt;/h2&gt;
+&lt;p&gt;In contrast, love is a deliberate and specific choice. When we love someone or something, it doesn&amp;rsquo;t necessarily have any bearing on how we feel about others. Love is limited to the object of our affection and cannot be easily transferred or shared.&lt;/p&gt;
+&lt;p&gt;Consider the example of a car. A car factory may produce thousands of identical vehicles, but you may develop a deep attachment to the one you own and have spent years driving. Even though other cars may look and function the same, your love for your own car is unique to that specific vehicle.&lt;/p&gt;
+&lt;p&gt;The same principle applies to human relationships. While babies may look similar, you love your own children and not just any child. Furthermore, you may have a deep affection for your spouse, but that love does not extend to their siblings, even twin siblings. This distinction highlights the fundamental difference between love and like.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;In my opinion, love and like are two distinct emotions that are experienced and expressed differently. While liking is a passive emotion that can be applied broadly, love is an active choice that is limited to specific individuals or objects. Understanding this distinction can enrich our understanding of human emotions and relationships.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>The best way to exchange gifts</title>
+		<link>https://tlyeung.github.io/tlyeung.com/gift-exchange/</link>
+		<pubDate>Thu, 15 Feb 2024 23:46:57 +0800</pubDate>
+		
+		<guid>https://tlyeung.github.io/tlyeung.com/gift-exchange/</guid>
+		<description>&lt;p&gt;It is common to exchange gifts in a Christmas party. Normally people would draw lots. But have anyone thought of a better method?&lt;/p&gt;
+&lt;p&gt;For &lt;em&gt;&lt;em&gt;n&lt;/em&gt;&lt;/em&gt; participants who would like to exchange gifts in a party, we know there are &lt;em&gt;&lt;em&gt;n!&lt;/em&gt;&lt;/em&gt; permutations of random orders of gifts. For some permutations, however, some participants get their own gifts instead of others&amp;rsquo;. In those cases, they are &lt;strong&gt;failed cases&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Assume the probability of getting our own gifts as &lt;em&gt;1/n&lt;/em&gt;. The probability of none of participants getting their own gifts is &lt;em&gt;(1 - 1/n)^n&lt;/em&gt;. For &lt;em&gt;n&lt;/em&gt; tends to infinity, the probability of that is &lt;em&gt;1/e&lt;/em&gt; , or on contrary, the probability of &lt;strong&gt;&lt;em&gt;failed cases&lt;/em&gt;&lt;/strong&gt; is &lt;em&gt;1 - 1/e&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;To reduce effort, and not letting anyone knows the result first to ensure total randomness, an algorithm is needed for exchanging gifts.&lt;/p&gt;
+&lt;p&gt;The algorithm works like this: first all &lt;em&gt;n&lt;/em&gt; participants with their own gifts get a random seat in a circle (it has &lt;em&gt;(n-1)!&lt;/em&gt; combinations because of the circular arrangement). Then a random number from uniform distributed numbers from &lt;em&gt;1&lt;/em&gt; to &lt;em&gt;n-1&lt;/em&gt; is picked and participants can pass their gifts clockwise according the number drawn. As a result, only one draw lot for random seats and one pick for a random number is needed.&lt;/p&gt;
+&lt;p&gt;This method can prevent participants getting their own gifts at the end of the party, and to speed up the gift exchange session. As long as there are participants in the party.&lt;/p&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
