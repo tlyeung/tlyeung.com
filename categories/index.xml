@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>TL Yeung</title>
-	<link>https://tlyeung.github.io/tlyeung/tlyeung.com/categories/</link>
+	<link>https://tlyeung.com/categories/</link>
 	<description>Recent content in Categories on TL Yeung</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
     
-        <atom:link href="https://tlyeung.github.io/tlyeung/tlyeung.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://tlyeung.com/categories/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>Universal COVID testing never works</title>
-		<link>https://tlyeung.github.io/tlyeung/tlyeung.com/universal-testing/</link>
+		<link>https://tlyeung.com/universal-testing/</link>
 		<pubDate>Fri, 16 Feb 2024 00:01:11 +0800</pubDate>
 		
-		<guid>https://tlyeung.github.io/tlyeung/tlyeung.com/universal-testing/</guid>
+		<guid>https://tlyeung.com/universal-testing/</guid>
 		<description>&lt;p&gt;During the COVID pandemic, universal testing had once been a topic in Hong Kong. Even if we can handle millions of testings a day, is it a good approach?&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s assume 99.9% accurate for positive and 99% for negative and 80,000 people are infected.&lt;/p&gt;
 &lt;table&gt;
@@ -59,10 +59,10 @@
 	
 	<item>
 		<title>Cebu Honeymoon Trip 2023</title>
-		<link>https://tlyeung.github.io/tlyeung/tlyeung.com/cebu-2023/</link>
+		<link>https://tlyeung.com/cebu-2023/</link>
 		<pubDate>Thu, 15 Feb 2024 23:46:57 +0800</pubDate>
 		
-		<guid>https://tlyeung.github.io/tlyeung/tlyeung.com/cebu-2023/</guid>
+		<guid>https://tlyeung.com/cebu-2023/</guid>
 		<description>&lt;p&gt;For our honeymoon trip, my wife and I visited Cebu, where we earned our first diving certificate and had an amazing experience exploring the underwater world. We were also impressed by the beautiful sights on land.&lt;/p&gt;
 &lt;h2 id=&#34;transportation&#34;&gt;Transportation&lt;/h2&gt;
 &lt;p&gt;Transportation in Cebu can be difficult, as Cebu City is often congested and lacks traffic lights in the other areas, making it dangerous for drivers and pedestrians. Some tourists choose to rent electric motorcycles, which are affordable and convenient. However, roads can be bumpy and prone to flooding during heavy rain.&lt;/p&gt;
@@ -83,10 +83,10 @@
 	
 	<item>
 		<title>Difference between Loving and Liking</title>
-		<link>https://tlyeung.github.io/tlyeung/tlyeung.com/love-and-like/</link>
+		<link>https://tlyeung.com/love-and-like/</link>
 		<pubDate>Thu, 15 Feb 2024 23:46:57 +0800</pubDate>
 		
-		<guid>https://tlyeung.github.io/tlyeung/tlyeung.com/love-and-like/</guid>
+		<guid>https://tlyeung.com/love-and-like/</guid>
 		<description>&lt;h2 id=&#34;distinction-between-love-and-like&#34;&gt;Distinction between Love and Like&lt;/h2&gt;
 &lt;p&gt;What is love? This age-old question has puzzled people for generations. Another equally intriguing question is whether there is a difference between love and like. To better understand these emotions, it&amp;rsquo;s essential to consider how they&amp;rsquo;re defined and perceived in different languages.&lt;/p&gt;
 &lt;p&gt;In some languages, such as Italian and Spanish, the concepts of liking and loving someone are distinctly different. Liking someone or something is seen as a passive emotion, whereas loving someone or something is an active choice.&lt;/p&gt;
@@ -104,10 +104,10 @@
 	
 	<item>
 		<title>The best way to exchange gifts</title>
-		<link>https://tlyeung.github.io/tlyeung/tlyeung.com/gift-exchange/</link>
+		<link>https://tlyeung.com/gift-exchange/</link>
 		<pubDate>Thu, 15 Feb 2024 23:46:57 +0800</pubDate>
 		
-		<guid>https://tlyeung.github.io/tlyeung/tlyeung.com/gift-exchange/</guid>
+		<guid>https://tlyeung.com/gift-exchange/</guid>
 		<description>&lt;p&gt;It is common to exchange gifts in a Christmas party. Normally people would draw lots. But have anyone thought of a better method?&lt;/p&gt;
 &lt;p&gt;For &lt;em&gt;&lt;em&gt;n&lt;/em&gt;&lt;/em&gt; participants who would like to exchange gifts in a party, we know there are &lt;em&gt;&lt;em&gt;n!&lt;/em&gt;&lt;/em&gt; permutations of random orders of gifts. For some permutations, however, some participants get their own gifts instead of others&amp;rsquo;. In those cases, they are &lt;strong&gt;failed cases&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Assume the probability of getting our own gifts as &lt;em&gt;1/n&lt;/em&gt;. The probability of none of participants getting their own gifts is &lt;em&gt;(1 - 1/n)^n&lt;/em&gt;. For &lt;em&gt;n&lt;/em&gt; tends to infinity, the probability of that is &lt;em&gt;1/e&lt;/em&gt; , or on contrary, the probability of &lt;strong&gt;&lt;em&gt;failed cases&lt;/em&gt;&lt;/strong&gt; is &lt;em&gt;1 - 1/e&lt;/em&gt;.&lt;/p&gt;
