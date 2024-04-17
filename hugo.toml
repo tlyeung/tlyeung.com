@@ -1,0 +1,4 @@
+baseURL = 'https://tlyeung.com/'
+languageCode = 'en-us'
+title = "TL Yeung"
+theme = 'basic'
