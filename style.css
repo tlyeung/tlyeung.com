@@ -1,12 +1,18 @@
 body {
-	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	font-family: 'Noto Serif', 'Noto Color Emoji', 'Noto Serif HK', serif;
+	background: #123 ;
+	color: #bca ;
 }
 
 main {
-	max-width: 800px ;
+	max-width: 1200px ;
 	margin: auto ;
+	padding:1rem;
+}
+
+a {
+	text-decoration: none;
+	color: #abc;
 }
 
 img {
@@ -15,6 +21,10 @@ img {
 
 header h1 {
 	text-align: center ;
+}
+
+h1, h2 {
+	color: gold;
 }
 
 footer {
