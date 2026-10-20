@@ -25,9 +25,9 @@ jobs:
           submodules: true
 
       - name: Build Zola and Upload Artifact
-        uses: getzola/github-pages@v1.0.1
+        uses: getzola/github-pages@v1
         with:
-          zola_version: "0.26.3"
+          zola_version: "v0.26.3"
 
       - name: Deploy to GitHub Pages
         id: deployment
