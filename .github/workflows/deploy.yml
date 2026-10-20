@@ -27,7 +27,7 @@ jobs:
       - name: Build Zola and Upload Artifact
         uses: getzola/github-pages@v1
         with:
-          zola_version: "v0.26.3"
+          zola_version: "v0.23.6"
 
       - name: Deploy to GitHub Pages
         id: deployment
