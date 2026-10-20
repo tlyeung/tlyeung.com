@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ config.default_language }}">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index, follow">
+    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+    <meta name="description" content="{{ config.description }}">
+    <link rel="canonical" href="{{ current_url | default(value=config.base_url) }}">
+    {% if config.generate_feeds %}
+    <link rel="alternate" type="application/atom+xml" title="{{ config.title }} RSS" href="{{ get_url(path='atom.xml') }}">
+    {% endif %}
+    <link rel="stylesheet" type="text/css" href="{{ get_url(path='style.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&family=Noto+Serif+HK:wght@200..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+<main>
+    {% block content %}{% endblock content %}
+</main>
+
+<footer>
+    <a href="{{ config.base_url }}">🏠Home</a>
+    <a href="{{ config.base_url }}tags/">🏷️Tags</a>
+</footer>
+</body>
+</html>

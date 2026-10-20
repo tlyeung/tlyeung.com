@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header><h1>{{ config.title }}</h1></header>
+<article>
+    {{ section.content | safe }}
+    <hr>
+    <ul>
+    {% for post in section.pages | sort(attribute="title") %}
+        <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+</article>
+<hr>
+{% endblock content %}

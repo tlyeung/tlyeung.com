@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}Tags | {{ config.title }}{% endblock title %}
+
+{% block content %}
+<header><h1>🏷️Tags</h1></header>
+<article>
+    <ul>
+    {% for term in terms %}
+        <li><a href="{{ term.permalink }}">{{ config.extra.tag_emojis[term.name] | default(value='') }}{{ term.name | capitalize }}</a></li>
+    {% endfor %}
+    </ul>
+</article>
+<hr>
+{% endblock content %}

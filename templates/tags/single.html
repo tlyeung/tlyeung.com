@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}{{ term.name | capitalize }} | {{ config.title }}{% endblock title %}
+
+{% block content %}
+<header><h1>{{ config.extra.tag_emojis[term.name] | default(value='') }}{{ term.name | capitalize }}</h1></header>
+<article>
+    <ul>
+    {% for post in term.pages %}
+        <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+</article>
+<hr>
+{% endblock content %}

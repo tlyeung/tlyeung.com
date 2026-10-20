@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ config.title }}{% endblock title %}
+
+{% block content %}
+{# Zola does not set earlier/later for pages in the root section, so work out the
+   neighbours from the homepage list (sorted newest first by date). #}
+{% set_global prev_post = "" %}
+{% set_global next_post = "" %}
+{% set_global found = false %}
+{% set home = get_section(path="_index.md") %}
+{% for post in home.pages %}
+    {% if post.permalink == page.permalink %}
+        {% set_global found = true %}
+    {% elif not found %}
+        {% set_global prev_post = post %}
+    {% elif next_post == "" %}
+        {% set_global next_post = post %}
+    {% endif %}
+{% endfor %}
+
+<header><h1>{{ page.title }}</h1></header>
+<article>
+    {{ page.content | safe }}
+
+    <div id="nextprev">
+        {% if prev_post %}
+        <a href="{{ prev_post.permalink }}"><div id="prevart">Previous:<br>{{ prev_post.title }}</div></a>
+        {% endif %}
+        {% if next_post %}
+        <a href="{{ next_post.permalink }}"><div id="nextart">Next:<br>{{ next_post.title }}</div></a>
+        {% endif %}
+    </div>
+
+    {% if page.taxonomies.tags %}
+    <div style="clear:both" class="taglist">Related<br>
+        {% for tag in page.taxonomies.tags %}
+        <a href="{{ get_taxonomy_url(kind='tags', name=tag) }}">{{ config.extra.tag_emojis[tag] | default(value='') }}{{ tag | capitalize }}</a>{% if not loop.last %} &middot; {% endif %}
+        {% endfor %}
+    </div>
+    {% endif %}
+</article>
+<hr>
+{% endblock content %}
