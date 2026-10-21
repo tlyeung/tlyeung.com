@@ -10,13 +10,12 @@ sort_by = "date"
 - 💼 [Software Engineer](https://www.linkedin.com/in/tlyeung/)
 - 🎓 Information Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/)
 
-# I am happy to
+## I am happy to
 
-- 🍎🍏 Eat an apple.
-- 🍫 Enjoy a bite of ≥ 99% dark chocolate bar.
-- 📷 Take pictures of people I love.
-- 🛌 Have a deep, relaxing sleep.
+- 🍎🍏 Eat apples.
+- 🍫 Savor dark chocolates.
+- 📹 Take videos of people I love.
+- 🛌 Sleep deeply and relax.
 - 🧦 Wear toe socks.
 - 🎧 Listen to podcast.
-- ⚽ Play football.
-- 🏟️ Watch [my favorite football team](https://www.safc.com/).
+- ⚽ Play football and watch [my favorite football team](https://www.safc.com/) to play.
