@@ -12,7 +12,7 @@ title = "TL Yeung"
 ## I am happy to
 
 - 🍎 Eat apples
-- 🍫 Savor dark chocolate
+- 🍫 Savour dark chocolate
 - 📹 Take videos of people I love
 - 🛌 Sleep deeply and relax
 - 🧦 Wear toe socks
