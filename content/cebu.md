@@ -1,24 +1,26 @@
 +++
-title = "Cebu Honeymoon Trip 2023"
+title = "Cebu Trips"
 date = 2023-02-01T00:00:00+08:00
 
 [taxonomies]
-tags = ["travel", "philippines"]
+tags = ["travel"]
 +++
+
+## Honeymoon Trip 2023
 
 For our honeymoon trip, my wife and I visited Cebu, where we earned our first diving certificate and had an amazing experience exploring the underwater world. We were also impressed by the beautiful sights on land.
 
-## Transportation
+### Transportation
 
 Transportation in Cebu can be difficult, as Cebu City is often congested and lacks traffic lights in the other areas, making it dangerous for drivers and pedestrians. Some tourists choose to rent electric motorcycles, which are affordable and convenient. However, roads can be bumpy and prone to flooding during heavy rain.
 
 Tuk-tuks in Bohol are a more affordable option, costing about half the price of a car. It is recommended to check with hotels or apps for transportation options and prices.
 
-## Food
+### Food
 
 Rice is a staple food in the local cuisine. Seafood and fruits both are fresh and flavorful. We have also tried roast chicken and roast pork, they are tasty but a bit too salty. San Miguel beer and soda are cheap and readily available.
 
-## Attractions
+### Attractions
 
 Moalboal is a popular destination for diving due to its many diving spots. However, there are few good hotel options available in the area.
 
@@ -35,3 +37,13 @@ Cebu City do not have many tourist attractions, but there are some large malls f
 One noteworthy aspect of Cebu and Bohol is the prevalence of buildings constructed using coral stones. Several prominent landmarks such as Fort San Pedro in Cebu City, Baclayon Church in Bohol, Cuartel and Baluarte Ruins in Oslob, are constructed using these unique materials. These structures not only impress with their grand size, but also feature the intricate details of the coral fossils visible on the surface. It’s a fascinating glimpse into the history and culture of the region and a must-see for visitors interested in architecture and history.
 
 Overall, many of the popular tourist spots are one-sided check-in spots, meaning they are designed for photo opportunities rather than for a meaningful cultural experience. You have to do your homework before.
+
+## Revisiting in 2026
+
+We visited Cebu again in 2026. This time, we spent our entire trip on Mactan Island and took a one-day trip to Olango Island.
+
+Staying in Mactan was a good choice. Within 20 minutes, depending on traffic, you can reach most hotels and diving shops. Mactan Island itself is surrounded by coral reefs, making it home to many diving spots. Overall, it is a very convenient place to stay.
+
+We visited Olango Island as well, but unfortunately there wasn't much to see at the wildlife observation deck, probably due to the season (February) and the weather. The marine sanctuary lacked facilities. If you plan to snorkel there, I recommend bringing your own gear and a bag for your wet swimsuits.
+
+The only issue we encountered during the trip was the public ferry from Olango Island back to Mactan. It was severely delayed and overcrowded, and many passengers had to wait for the next ferry. In hindsight, hiring a private boat for island hopping would have been a better option.

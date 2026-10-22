@@ -1,6 +1,5 @@
 +++
 title = "TL Yeung"
-sort_by = "date"
 +++
 
 # About me
@@ -12,10 +11,10 @@ sort_by = "date"
 
 ## I am happy to
 
-- 🍎🍏 Eat apples.
-- 🍫 Savor dark chocolates.
-- 📹 Take videos of people I love.
-- 🛌 Sleep deeply and relax.
-- 🧦 Wear toe socks.
-- 🎧 Listen to podcast.
-- ⚽ Play football and watch [my favorite football team](https://www.safc.com/) to play.
+- 🍎 Eat apples
+- 🍫 Savor dark chocolate
+- 📹 Take videos of people I love
+- 🛌 Sleep deeply and relax
+- 🧦 Wear toe socks
+- 🎧 Listen to podcast
+- ⚽ Play football and watch [my favorite football team](/sunderland) to play

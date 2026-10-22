@@ -3,34 +3,26 @@
 {% block title %}{{ page.title }} | {{ config.title }}{% endblock title %}
 
 {% block content %}
-{# Zola does not set earlier/later for pages in the root section, so work out the
-   neighbours from the homepage list (sorted newest first by date). #}
-{% set_global prev_post = "" %}
-{% set_global next_post = "" %}
-{% set_global found = false %}
 {% set home = get_section(path="_index.md") %}
-{% for post in home.pages %}
-    {% if post.permalink == page.permalink %}
-        {% set_global found = true %}
-    {% elif not found %}
-        {% set_global prev_post = post %}
-    {% elif next_post == "" %}
-        {% set_global next_post = post %}
-    {% endif %}
-{% endfor %}
+{% set home_pages = home.pages | sort(attribute="date") | reverse %}
+{% set total = home_pages | length %}
 
 <header><h1>{{ page.title }}</h1></header>
 <article>
     {{ page.content | safe }}
 
+    {% for i in range(end=total) %}
+    {% if home_pages[i].permalink == page.permalink %}
     <div id="nextprev">
-        {% if prev_post %}
-        <a href="{{ prev_post.permalink }}"><div id="prevart">Previous:<br>{{ prev_post.title }}</div></a>
+        {% if i + 1 < total %}
+        <a href="{{ home_pages[i + 1].permalink }}"><div id="prevart">Previous:<br>{{ home_pages[i + 1].title }}</div></a>
         {% endif %}
-        {% if next_post %}
-        <a href="{{ next_post.permalink }}"><div id="nextart">Next:<br>{{ next_post.title }}</div></a>
+        {% if i > 0 %}
+        <a href="{{ home_pages[i - 1].permalink }}"><div id="nextart">Next:<br>{{ home_pages[i - 1].title }}</div></a>
         {% endif %}
     </div>
+    {% endif %}
+    {% endfor %}
 
     {% if page.taxonomies.tags %}
     <div style="clear:both" class="taglist">Related<br>

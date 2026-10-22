@@ -6,7 +6,7 @@
     {{ section.content | safe }}
     <hr>
     <ul>
-    {% for post in section.pages | sort(attribute="title") %}
+    {% for post in section.pages | sort(attribute="date") | reverse %}
         <li><a href="{{ post.permalink }}">{{ post.title }}</a></li>
     {% endfor %}
     </ul>
