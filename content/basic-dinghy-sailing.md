@@ -3,7 +3,7 @@ title = "Basic Dinghy Sailing"
 date = 2025-12-11T00:00:00+08:00
 
 [taxonomies]
-tags = ["travel"]
+tags = ["sail"]
 +++
 
 ## 1. Essential Knots & Ropework
@@ -23,19 +23,19 @@ tags = ["travel"]
 
 ### 1. Sail Setting
 
-* Outhaul (Controls tension along the bottom edge/foot of the sail):
+* [Outhaul](https://en.wikipedia.org/wiki/Outhaul) (Controls tension along the bottom edge/foot of the sail):
     1. Controls how flat or curved the bottom of the sail is. Pulling it tight makes the sail flat (less power); loosening it creates more curve (more power).
     2. **Light Wind (< 10 knots):** Loosen completely, leaving a 10–15 cm gap between the sail foot and the boom to add draft and speed.
     3. **Medium Wind (10–15 knots):** Tighten moderately, reducing the gap to 5–10 cm for balanced sail shape.
     4. **Strong Wind (> 15 knots):** Pull fully tight until the sail foot touches the boom, flattening the sail to reduce power and heel.
     5. It is the first control line to adjust when reducing power in strong winds. Make sure the sail shelf looks smooth without creases.
-* Cunningham (Controls tension along the front edge/luff of the sail):
+* [Cunningham](https://en.wikipedia.org/wiki/Cunningham_(sailing)) (Controls tension along the front edge/luff of the sail):
     1. Pulls down on the front edge (luff) of the sail, moving the deepest curve forward, flattening the sail, and smoothing out luff wrinkles.
     2. **Light Wind:** Keep fully loose so the sail stays deep and powerful.
     3. **Medium Wind:** Pull lightly until wrinkles along the front edge just disappear.
     4. **Strong Wind:** Pull fully tight (even if diagonal creases appear) to push power forward, flatten the top, and open the leech (back edge) to spill wind.
     5. Typically tightened together with the vang in heavier winds, and fully loosened when sailing downwind.
-* Vang / Kicking Strap (Controls downward boom pull and back edge tension):
+* [Vang / Kicking Strap](https://en.wikipedia.org/wiki/Boom_vang) (Controls downward boom pull and back edge tension):
     1. Pulls the boom down, controlling back edge (leech) tension, increasing twist, and keeping the boom from rising when easing sheets.
     2. **Upwind (Light Wind):** Keep loose or take out slack, letting the mainsail lower the boom naturally.
     3. **Upwind (Medium Wind):** Tighten moderately so the top telltale flies about 50% of the time.
@@ -89,8 +89,9 @@ tags = ["travel"]
 6. **Helm:** Straightens tiller right after the boom crosses, shifts body weight, and eases the mainsheet out on the new tack.
 7. **Helm/Crew:** "Jibe ho!" once the maneuver is finished.
 
-### **_Golden Rule_**
-**Complete the turn and balance the boat BEFORE switching hands. Never swap hands mid-turn.**
+### **Golden Rule**
+
+> **_Complete the turn and balance the boat BEFORE switching hands. Never swap hands mid-turn._**
 
 ---
 
@@ -114,6 +115,13 @@ tags = ["travel"]
 
 * **Windward:** The side or direction facing into the wind.
 * **Leeward:** The side or direction facing away from the wind.
+* **Port:** The left side of the boat when facing forward.
+* **Starboard:** The right side of the boat when facing forward.
+* **Bow:** The front of the boat.
+* **Stern:** The back of the boat.
+
+### General Controls
+
 * **Sheeting in:** Pulling a sheet rope closer/tighter.
 * **Sheeting out / Easing:** Letting a sheet rope out to loosen the sail.
 
@@ -157,10 +165,8 @@ tags = ["travel"]
 2. Push the boat into water until knee-deep (stern floats, bow touches bottom for control).
 3. Keep the bow pointed directly into the wind at all times to keep sails luffing.
 4. **Crew Entry:** Crew climbs in near the center to stabilize the boat while Helm holds the bow.
-* Insert centreboard halfway down.
-* Lower rudder blade until it just touches the water (unlocked).
-
-
+    * Insert centreboard halfway down.
+    * Lower rudder blade until it just touches the water (unlocked).
 5. Helm turns the bow toward open water while keeping it clear into the wind.
 6. **Helm Entry:** Helm grabs tiller, climbs in, and pushes off the beach using feet.
 
@@ -175,7 +181,24 @@ tags = ["travel"]
 
 ---
 
+## 7. Right of Way Rules (ROW)
+
+### The 3 Fundamental Rules (In Order of Priority)
+
+- Rule 1: Opposite Tacks — Starboard Over Port
+- Rule 2: Same Tack — Leeward Over Windward
+- Rule 3: Overtaking — Rear Boat Keeps Clear
+
+### Golden Rules
+
+* **Avoiding Collisions**
+* **Hailing / Communication:**
+  * *"Starboard!"* — Alerting a port-tack boat that you have right of way.
+  * *"Windward, keep clear!"* — Reminding an upwind boat to steer away.
+
+---
 ### Resource
 [Laser Pico Rigging Guide](/Laser-Pico-Rigging-Guide.pdf)
 
 ---
+
